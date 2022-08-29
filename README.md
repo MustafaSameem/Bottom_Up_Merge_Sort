@@ -10,3 +10,8 @@ To sort your own values, enter your data in the following order: MS int int int 
 To sort a random set of values, enter your data in the following order: MS size_of_list
 To perform a Structured pass before the iterative MergeSort, change MS to SMS and keep the same format
         
+        System.out.println("This program will sort values in ascending order");
+        System.out.println("To sort your own values, enter your data in the following order: MS int int int int...");
+        System.out.println("To sort a random set of values, enter your data in the following order: MS size_of_list");
+        System.out.println("To perform a Structured pass before the iterative MergeSort, change MS to SMS and keep the same format");
+        
