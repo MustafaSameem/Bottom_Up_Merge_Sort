@@ -6,7 +6,8 @@ The approach used is an iterative bottom up merge sort as opposed to the regular
 A circular queue is used to store "runs" which allows the program to be iterative.
 
 
-System.out.println("To sort your own values, enter your data in the following order: MS int int int int...");
-System.out.println("To sort a random set of values, enter your data in the following order: MS size_of_list");
-System.out.println("To perform a Structured pass before the iterative MergeSort, change MS to SMS and keep the same format");
+        System.out.println("To sort your own values, enter your data in the following order: MS int int int int...");
+        System.out.println("To sort a random set of values, enter your data in the following order: MS size_of_list");
+        System.out.println("To perform a Structured pass before the iterative MergeSort, change MS to SMS and keep the same format");
         
+
