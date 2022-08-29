@@ -6,6 +6,7 @@ The approach used is an iterative bottom up merge sort as opposed to the regular
 A circular queue is used to store "runs" which allows the program to be iterative.
 
 The terminal is required to run this program. Use format: java MergeDriver "MS" 23 89 3 89 23 OR "SMS" 12 
+
 More information below
 
         System.out.println("To sort your own values, enter your data in the following order: MS int int int int...");
